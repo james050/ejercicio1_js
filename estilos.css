@@ -1,0 +1,13 @@
+#DivContenedor{
+    border: solid gray 1px;
+    flex-wrap: wrap;
+    float: center;
+    margin-top: 50% auto;
+    margin-left: 50% auto;
+    margin-right: 50% auto;
+    margin-bottom: 50% auto;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    text-align: center;
+    background: #d8ecd7;
+}
